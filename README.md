@@ -68,23 +68,6 @@ The model was trained on real telco data and evaluated using classification metr
 
 ---
 
-
-
-
-╔══════════════════════════════════════╗
-║      📊 Customer Churn Prediction    ║  <- Título grande
-║   Machine Learning Project (Python)  ║
-╠══════════════════════════════════════╣
-║ 📌 Model: Random Forest (tuned)      ║
-║ 🎯 Accuracy: 80%                     ║
-║ 📈 ROC AUC: 0.86                     ║
-║ 📊 F1-score (churn class): 0.67      ║
-╠══════════════════════════════════════╣
-║ 💡 Business-focused predictions      ║
-║ 🧠 Threshold adjusted for recall     ║
-╚══════════════════════════════════════╝
-         By Vania Souza | Data Analytics
-
 ###  Next Steps
 
 - Deploy model via Streamlit or API for business use
